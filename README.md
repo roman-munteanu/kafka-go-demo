@@ -21,7 +21,7 @@ go mod tidy
 
 go mod vendor
 
-go run main.go
+go run ./segmentio/main.go
 ```
 
 Kafka CLI
